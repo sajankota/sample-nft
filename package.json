@@ -1,5 +1,6 @@
 {
-  "name": "cyboxreact",
+  "name": "binasea",
+  "description": "React template for NFT based applications",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
